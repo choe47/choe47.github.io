@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# Site
+name: 'Blog Home'
+description: 'github blog'
+meta_description: 'metatag'
